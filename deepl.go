@@ -9,5 +9,6 @@ const (
 	Italian = "IT"
 	Dutch   = "NL"
 	Polish  = "PL"
+	Chinese = "ZH"
 	Auto    = "auto"
 )
